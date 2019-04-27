@@ -12,5 +12,6 @@ public class Dugujiujian {
         System.out.println("有我西电东蜀");
         System.out.println("有我南辕北辙");
         System.out.println("有我南水北调");
+        System.out.println("有我东征西伐");
     }
 }
