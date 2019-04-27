@@ -14,5 +14,6 @@ public class Xxdafa {
         System.out.println("猩猩打法");
         System.out.println("馨馨大法");
         System.out.println("馨馨大法");
+        System.out.println("馨馨大法");
     }
 }
